@@ -14,4 +14,5 @@ func main() {
 	global.HttpReq = infra.NewHttpClient()
 	// auto migrate tables
 	// start schedule job
+	// hello dan
 }
